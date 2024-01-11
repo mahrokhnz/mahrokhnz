@@ -8,8 +8,7 @@ let locale;
 let translations = {};
 
 document.addEventListener("DOMContentLoaded", () => {
-    setLocale(defaultLocale);
-    bindLocaleSwitcher(defaultLocale);
+    void setLocale(defaultLocale);
 });
 
 async function setLocale(newLocale) {
