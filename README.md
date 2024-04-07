@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Three.js journey**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahrokhnz](https://github.com/mahrokhnz)
-
-- 📝 I regularly write articles on [https://mahrokhnz.ir/](https://mahrokhnz.ir/)
-
 - 💬 Ask me about **Javascript, Typescript, React, Sass, css, HTML**
 
 - 📫 How to reach me **mahrokh.nz@gmail.com**
