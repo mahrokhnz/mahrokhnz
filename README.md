@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahrokh-nabizadeh-335326144/" target="blank"><img align="center" src="assets/social/linked-in-alt.svg" alt="mahrokhnz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mahrokhnz" target="blank"><img align="center" src="assets/social/hackerrank.svg" alt="mahrokhnz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahrokhnz" target="blank"><img align="center" src="assets/social/leet-code.svg" alt="mahrokhnz" height="30" width="40" /></a>
-<a href="https://twitter.com/mahrokhnz" target="blank"><img align="center" src="assets/social/twitter.svg" alt="mahrokhnz" height="30" width="40" /></a>
-<a href="https://instagram.com/mahrokhnz" target="blank"><img align="center" src="assets/social/instagram.svg" alt="mahrokhnz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahrokh-nabizadeh-335326144/" target="blank"><img align="center" src="https://github.com/mahrokhnz/mahrokhnz/blob/main/assets/social/linked-in-alt.svg?raw=true" alt="mahrokhnz" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mahrokhnz" target="blank"><img align="center" src="https://github.com/mahrokhnz/mahrokhnz/blob/main/assets/social/hackerrank.svg?raw=true" alt="mahrokhnz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mahrokhnz" target="blank"><img align="center" src="https://github.com/mahrokhnz/mahrokhnz/blob/main/assets/social/leet-code.svg?raw=true" alt="mahrokhnz" height="30" width="40" /></a>
+<a href="https://twitter.com/mahrokhnz" target="blank"><img align="center" src="https://github.com/mahrokhnz/mahrokhnz/blob/main/assets/social/twitter.svg?raw=true" alt="mahrokhnz" height="30" width="40" /></a>
+<a href="https://instagram.com/mahrokhnz" target="blank"><img align="center" src="https://github.com/mahrokhnz/mahrokhnz/blob/main/assets/social/instagram.svg?raw=true" alt="mahrokhnz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
