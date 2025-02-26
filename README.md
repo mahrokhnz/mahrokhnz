@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahrokhnz&label=Profile%20views&color=0e75b6&style=flat" alt="mahrokhnz" /> </p>
 
+- 🌐 See more about me **[My personal website](https://www.mahrokhnz.ir)**
+
 - 💬 Ask me about **Next js, React js, Javascript, Typescript, css3, HTML5**
 
-- 📫 How to reach me **mahrokh.nz@gmail.com**
+- 📫 reach me **mahrokh.nz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p>
