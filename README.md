@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Next js, React js, Javascript, Typescript, css3, HTML5**
 
-- 📫 reach me **[mailto:mahrokh.nz@gmail.com](mahrokh.nz@gmail.com)**
+- 📫 reach me **[mahrokh.nz@gmail.com](mailto:mahrokh.nz@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p>
